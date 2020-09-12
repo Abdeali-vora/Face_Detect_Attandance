@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Face_detect_attandance", "Face_detect_attandance\Face_detect_attandance.pyproj", "{F90928C6-044E-4737-926F-F574356431C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90928C6-044E-4737-926F-F574356431C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90928C6-044E-4737-926F-F574356431C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90928C6-044E-4737-926F-F574356431C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90928C6-044E-4737-926F-F574356431C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A69283-3C93-4D9A-A010-8F21E7037E4B}
+	EndGlobalSection
+EndGlobal
